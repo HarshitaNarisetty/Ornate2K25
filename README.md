@@ -16,8 +16,6 @@ A responsive and user-friendly web application to manage and organize college ev
 - JavaScript (ES6+)
 - TypeScript
 
-## 📸 Screenshots
-_Add some screenshots here if possible (interface, forms, event listing, etc.)_
 
 ## 🚀 Getting Started
 
