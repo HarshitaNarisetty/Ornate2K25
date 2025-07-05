@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -67,3 +68,34 @@ Simply open [Lovable](https://lovable.dev/projects/08f7db6c-623f-40e0-a2a0-7e6a6
 ## I want to use a custom domain - is that possible?
 
 We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+=======
+# Ornate2k25
+# College Event Management System 🎓🎉
+
+A responsive and user-friendly web application to manage and organize college events. Built using HTML, CSS, JavaScript, and TypeScript.
+
+## 🔧 Features
+- Add, update, and delete events
+- Filter events by category, date, or location
+- Event registration form for students
+- Responsive design for mobile and desktop
+- Built with TypeScript for better type safety
+
+## 💻 Technologies Used
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+
+## 📸 Screenshots
+_Add some screenshots here if possible (interface, forms, event listing, etc.)_
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/HarshitaNarisetty/Ornate2K25.git
+cd college-event-management
+open index.html in your browser
+>>>>>>> ab9111962b160071bb34917fc490c579b7e14431
