@@ -1,0 +1,11 @@
+event_id,first_name,last_name,email,phone,organization,ticket_id,status,registration_date,dietary_restrictions
+1,John,Smith,john.smith@example.com,555-123-4567,Acme Inc.,TICKET001,confirmed,2025-02-10 09:30:00,None
+1,Jane,Doe,jane.doe@example.com,555-234-5678,TechCorp,TICKET002,confirmed,2025-02-11 14:45:00,Vegetarian
+1,Michael,Johnson,michael.j@example.com,555-345-6789,Data Systems,TICKET003,pending,2025-02-12 11:20:00,Gluten-free
+2,Emily,Williams,emily.w@example.com,555-456-7890,Innovations LLC,TICKET004,confirmed,2025-02-13 10:15:00,Vegan
+2,Robert,Brown,robert.b@example.com,555-567-8901,Global Solutions,TICKET005,pending,2025-02-14 16:30:00,None
+2,Sarah,Miller,sarah.m@example.com,555-678-9012,,TICKET006,confirmed,2025-02-15 13:25:00,Dairy-free
+3,David,Jones,david.j@example.com,555-789-0123,Tech Innovators,TICKET007,cancelled,2025-02-16 09:45:00,Nut allergy
+3,Jennifer,Garcia,jennifer.g@example.com,,Research Institute,TICKET008,confirmed,2025-02-17 11:50:00,Halal
+3,Thomas,Martinez,thomas.m@example.com,555-890-1234,,TICKET009,pending,2025-02-18 14:10:00,Kosher
+4,Lisa,Anderson,lisa.a@example.com,555-901-2345,Future Labs,TICKET010,confirmed,2025-02-19 10:05:00,None
